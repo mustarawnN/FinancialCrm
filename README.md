@@ -1,4 +1,6 @@
 **📉 Finansal Yönetim ve İzleme Platformu**
+
+
 **🔍 Proje Tanımı**
 Bu proje, finansal verilerin etkili bir şekilde yönetilmesini sağlayan, Entity Framework ve MSSQL teknolojileriyle geliştirilmiş bir uygulamadır. Kullanıcıların sisteme kayıt olup finansal durumlarını rahatça takip edebileceği pratik ve bir o kadar kullanışlı çözüm fırsatları sunar. Windows Forms tabanlı olarak oluşturulan bu platform, Entity Framework ile veritabanı işlemlerini hızlı ve kolay bir şekilde gerçekleştirir.
 
@@ -27,7 +29,9 @@ Fatura bilgilerini güncelleyerek kontrol edebilirler.
 **💻 Kullanılan Teknolojiler**
 
 **🌐 MSSQL:** Veritabanı yönetimi için güvenli ve güçlü bir seçenek olarak MSSQL tercih edilmiştir.
+
 **📚 Entity Framework:** Veritabanı işlemleri için hızlı ve güvenli bir çözüm sağlayan Entity Framework kullanılmıştır.
+
 **🖥️ C# & Windows Forms:** Uygulama, C# diliyle geliştirilmiş ve Windows Forms üzerinde tasarlanmıştır.
 
 **🚀🚀 TASARIM GÖRSELLERİM 🚀🚀**
